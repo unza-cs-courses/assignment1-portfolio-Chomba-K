@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Chomba Kampengele
+**Student ID:** 2023046777
+**Design Theme:** The theme of this portfolio is feminine, bold and magazine inspired suited to a creative design background. It uses a colour palette of various shades of purple, so as not to use too many contrasting colours and hot-pink to highlight certain areas and sections. The whole portfolio uses Times New Roman as the font-family which is a well known serif font. Sections are divided by different coloured borders to give the effect of contrast between the different sections. 
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,7 +139,9 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+Had difficulties sizing the images for the project to fit the project card accordingly.
+
+Had difficulty designing a hamburger menu for mobile to display the navigation links and opted to stack them in a vertical panel for mobile devices.
 
 ### Credits
 [List any images, fonts, or resources used with attribution]
